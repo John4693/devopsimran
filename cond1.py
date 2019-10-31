@@ -8,4 +8,4 @@ elif PLANET == "Earth":
    print "We are on planet %s " % (PLANET)
 else:
   print "%s planet is good to land." % (PLANET)
-
+# testing
